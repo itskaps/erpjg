@@ -4,7 +4,7 @@ from . import __version__ as app_version
 
 app_name = "purchase_agent"
 app_title = "Purchase Agent"
-app_publisher = "JGtTPL"
+app_publisher = "JGTPL"
 app_description = "Purchase Agent"
 app_icon = "octicon octicon-file-directory"
 app_color = "grey"
